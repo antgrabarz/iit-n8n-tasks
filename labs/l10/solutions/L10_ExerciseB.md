@@ -6,3 +6,4 @@
    ![6](b6.png)
    ![7](b7.png)
 
+I set up two workflows which respond to webhooks and send query to Groq. The LLM then would complete its task.
